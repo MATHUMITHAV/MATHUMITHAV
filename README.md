@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathumithav&layout=compact&theme=radical)](https://github.com/mathumithav/github-readme-stats)
-[![Mathumitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathumithav)](https://github.com/mathumithav/github-readme-stats)
 
 
 
