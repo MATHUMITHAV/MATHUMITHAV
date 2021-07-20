@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Mathumitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathumithav&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathumithav&layout=compact)](https://github.com/mathumithav/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathumithav&layout=compact&theme=radical)](https://github.com/mathumithav/github-readme-stats)
 
 
 
