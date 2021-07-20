@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Mathumitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathumithav&show_icons=true&theme=radical)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathumithav&langs_count=8&theme=radical)](https://github.com/mathumithav/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathumithav&layout=compact&theme=radical)](https://github.com/mathumithav/github-readme-stats)
 
 
